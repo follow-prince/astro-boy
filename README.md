@@ -8,7 +8,7 @@
 ![GitHub Issues](https://img.shields.io/github/issues/follow-prince/WorkFolio?color=098f76&label=GitHub%20Issues&style=flat-square)
 ![Website Status](https://img.shields.io/website?down_message=Down%20%26%20Offline&label=Website%20Status&up_message=Up%20%26%20Online&url=https%3A%2F%2Fi-am-prince.vercel.app)
 
-**Live Preview: 👉🏽 [elavarasan.me](https://elavarasan.me)**
+**Live Preview: 👉🏽 [old.elavarasan.me](https://old.elavarasan.me)**
 
 ✨ Hello there, I'm ELAVARASAN. This is my personal website, which contains public information that anyone can find on the internet.
 
@@ -53,9 +53,9 @@ Thanks to everyone who supported.
 ## 👨‍💻 Developed By
 
 ELAVARASAN
-[©elavarasan.dev](https://elavarasan.me)
+[©elavarasan.me](https://elavarasan.me)
 
 ## 💬 Contact
 
 Send me an email if you need to contact me to discuss anything.  
-Email - <elavarasa.003@gmail.com>
+Email - <contact@elavarasan.me>
